@@ -1,4 +1,4 @@
-package SpendGraph.SpendGraph;
+package com.example.SpendGraph;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
